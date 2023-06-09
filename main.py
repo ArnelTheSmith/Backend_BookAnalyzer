@@ -4,3 +4,4 @@ with open ("books/frankestein.txt") as file:
     words = contents.split()
     num_words = len(words)
     print(f"{num_words} words found in the document")
+
